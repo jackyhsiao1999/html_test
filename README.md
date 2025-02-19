@@ -1,2 +1,3 @@
 # html_test
-html test
+
+html [test](test.md)
